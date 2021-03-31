@@ -1,4 +1,8 @@
 dependencies:
-  - matplotlib
-  - numpy
-  - pandas
+  - r-base=4.0
+  - python=3.8
+  - pip
+  - pip: 
+    - matplotlib
+    - numpy
+    - pandas
